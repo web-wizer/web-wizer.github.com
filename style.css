@@ -1,0 +1,96 @@
+header{
+  border: 5px solid rgb(66, 129, 180);
+}
+
+header, footer {
+    background-color: rgb(70, 138, 233);
+    border-style: solid;
+    border-color: #BFD9FD;
+    text-align: center;
+}
+
+header{
+  color:white
+}
+.myButton {
+	box-shadow: 0px 1px 25px 2px #9fb4f2;
+	background:linear-gradient(to bottom, #8bade8 5%, #476e9e 100%);
+	background-color:#8bade8;
+	border-radius:8px;
+	border:1px solid #98abe6;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:10px 57px;
+	text-decoration:none;
+	text-shadow:0px 1px 30px #283966;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #8bade8 100%);
+	background-color:#476e9e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.myButton {
+	background-color:#44c767;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.myButton:hover {
+	background-color:#5cbf2a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+h3 { color: red
+}
+.myButton {
+	background-color:#44c767;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.myButton:hover {
+	background-color:#5cbf2a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+
+#fat {
+  font-size: 30px;
+}
+
+#fat {
+  color: rgb(7, 7, 133)
+}
+
+.gmail {
+  color: rgb(138, 6, 6);
+}
+
+.geheimeButton {
+  font-size: 10px;
+}
